@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "UNDERWORLD",
+  "base_artist": "AZALEA（久遠七海 starring Lezel）",
+  "createdAt": "2026-03-12T23:08:28.281203Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Risingson - Underworld Remix",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/01_Risingson_-_Underworld_Remix_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Risingson (Underworld Mix)",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/02_Risingson_(Underworld_Mix)_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In the Underworld",
+      "artist": "Blind Guardian Twilight Orchestra",
+      "has_synced": true,
+      "path": "select/03_In_the_Underworld_Blind_Guardian_Twilight_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Underworld",
+      "artist": "Echoberyl",
+      "has_synced": false,
+      "path": "select/04_The_Underworld_Echoberyl.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Human Behaviour (The Underworld Mix 110 Bpm)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/05_Human_Behaviour_(The_Underworld_Mix_110_Bpm)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Human Behavior (The Underworld Mix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/06_Human_Behavior_(The_Underworld_Mix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Human Behaviour (The Underworld Mix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/07_Human_Behaviour_(The_Underworld_Mix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Human Behaviour (The Underworld Remix 110 BPM)",
+      "artist": "Björk",
+      "has_synced": false,
+      "path": "select/08_Human_Behaviour_(The_Underworld_Remix_110_BPM)_Björk.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Human Behaviour (Underworld Mix)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/09_Human_Behaviour_(Underworld_Mix)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Leave Home (Underworld mix 1)",
+      "artist": "The Chemical Brothers",
+      "has_synced": false,
+      "path": "select/10_Leave_Home_(Underworld_mix_1)_The_Chemical_Brothers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Leave Home - Underworld Mix I",
+      "artist": "The Chemical Brothers",
+      "has_synced": false,
+      "path": "select/11_Leave_Home_-_Underworld_Mix_I_The_Chemical_Brothers.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Leave Home [underworld mix one",
+      "artist": "The Chemical Brothers",
+      "has_synced": false,
+      "path": "select/12_Leave_Home_[underworld_mix_one_The_Chemical_Brothers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Underworld USA",
+      "artist": "Cold Cave",
+      "has_synced": false,
+      "path": "select/13_Underworld_USA_Cold_Cave.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Barrel Of A Gun - Underworld Hard Mix",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/14_Barrel_Of_A_Gun_-_Underworld_Hard_Mix_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Barrel Of A Gun (Underworld Hard Mix)",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/15_Barrel_Of_A_Gun_(Underworld_Hard_Mix)_Depeche_Mode.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNDERWORLD",
+      "artist": "AZALEA Starring Lezel",
+      "has_synced": false,
+      "path": "select/pl_01_UNDERWORLD_AZALEA_Starring_Lezel.txt"
+    }
+  ]
+}
