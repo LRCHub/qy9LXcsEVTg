@@ -1,0 +1,79 @@
+# AZALEA（久遠七海 starring Lezel） – UNDERWORLD
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+♪
+Underworld..
+キミが欲しいすべて
+みせてあげてもいいよ
+グロテスクな現世で
+to Underworld
+♪
+♪
+お願い目隠しをしてね
+それがゲームのstart
+妄想の感覚で
+イケない遊びをどうぞ
+きらめく illumination
+libido吐き出したい
+本当はどうしたい?
+ドキドキですか
+見えないものは
+見たいでしょ
+欲望 加速する
+だけど見えたら
+きっとがっかりかもよ
+Underworld..
+謎はナゾのほうが
+ミステリアスだけど
+退屈で腐っちゃう
+Underworld..
+覗き足りない闇に
+目をそらさない勇気
+見せつけてね
+make it, make it,
+make it, make it
+to Underworld
+♪
+あのねやっぱり言わない
+それは大人の border
+深層の全貌は
+U&I お互いの胸に
+give it up どうでもいいや
+だけど夢見てたい
+快感に酔いしれて
+フワフワしましょ
+ありえないとか
+いうけれど
+現実 目が眩む
+どうせ嘘なら
+もっと楽しみ尽くそう
+Underworld..
+愛に飢えた偶像
+探してみてどうぞ
+いつだって行方不明
+Underworld..
+撃ち抜いたらいいよ
+ここにいるのにいない
+迷いの森
+make it, make it,
+make it, make it
+to Underworld
+♪
+♪
+♪
+Underworld..
+謎はナゾのほうが
+ミステリアスだけど
+退屈で腐っちゃう
+Underworld..
+キミが欲しいすべて
+みせてあげてもいいよ
+笑わないで
+make it, make it,
+make it, make it
+to Underworld
+to Underworld
+to Underworld
+```
